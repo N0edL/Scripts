@@ -1,5 +1,5 @@
 # Scripts
-Just Scripts that i have made https://img.shields.io/bitbucket/issues/N0edL/Scripts?color=blue&logoColor=blue&style=flat-square
+<img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/N0edL/Scripts?color=blue&logoColor=blue&style=flat-square">
 
 
 
