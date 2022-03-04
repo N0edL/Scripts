@@ -1,5 +1,5 @@
 # Scripts
-Just Scripts that i have made
+Just Scripts that i have made https://img.shields.io/bitbucket/issues/N0edL/Scripts?color=blue&logoColor=blue&style=flat-square
 
 
 
