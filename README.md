@@ -27,4 +27,4 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=N0edL-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=N0edL-github-username&style=flat)
