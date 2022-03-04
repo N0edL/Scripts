@@ -1,5 +1,5 @@
 # Scripts
-<img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/N0edL/Scripts?color=blue&logoColor=blue&style=flat-square">
+<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/N0edL/Scripts?color=blue&logoColor=blue&style=flat-square">
 
 
 
